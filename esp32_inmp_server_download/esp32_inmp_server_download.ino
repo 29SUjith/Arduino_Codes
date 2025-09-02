@@ -14,7 +14,7 @@ int16_t sBuffer[bufferLen];
 const char* ssid = "Projects";
 const char* password = "12345678@";
 
-const char* websocket_server_host = "192.168.1.8";
+const char* websocket_server_host = "192.168.1.9";
 const uint16_t websocket_server_port = 8888;
 
 using namespace websockets;

@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid = "Projects";        // Your WiFi SSID
-const char* password = "12345678@";   // Your WiFi Password
+const char* ssid = "Project";        // Your WiFi SSID
+const char* password = "12345678";   // Your WiFi Password
 
 #define WATER_SENSOR_PIN 34     // Water level sensor analog pin
 #define PUMP_RELAY_PIN 15       // Pump relay control pin

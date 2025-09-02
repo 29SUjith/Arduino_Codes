@@ -1,5 +1,5 @@
-#define ENC_A 15  // Encoder Channel A
-#define ENC_B 4  // Encoder Channel B (added for direction)
+#define ENC_A 22  // Encoder Channel A
+#define ENC_B 23  // Encoder Channel B (added for direction)
 #define PULSES_PER_REV 280  // Corrected value
 
 volatile long encoderValue = 0;
